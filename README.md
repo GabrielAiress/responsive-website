@@ -5,6 +5,6 @@
 - Animations on images with GSAP
 - Mobile First methodology
 
-All rights to [Bedimcode](https://www.youtube.com/@Bedimcode)
+Credits to [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 [![Preview image of the final result.](/preview.png)](https://youtu.be/Sc4IDvESKHE?si=qXUDEaE3wuNpRXNn)
