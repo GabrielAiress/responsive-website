@@ -4,3 +4,4 @@
 - HTML, CSS & JavaScript
 - Animations on images with GSAP
 - Mobile First methodology
+![Preview image of the final result.](/preview.png)
