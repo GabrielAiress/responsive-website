@@ -7,4 +7,4 @@
 
 All rights to [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![Preview image of the final result.](/preview.png)
+[![Preview image of the final result.](/preview.png)](https://youtu.be/Sc4IDvESKHE?si=qXUDEaE3wuNpRXNn)
